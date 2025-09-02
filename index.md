@@ -6,3 +6,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Homework 1
+- [x] Quiz 1
+- [ ] Homework 2
